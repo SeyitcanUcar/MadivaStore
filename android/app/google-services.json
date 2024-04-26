@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "363796383072",
+    "project_id": "projecommerce-e7409",
+    "storage_bucket": "projecommerce-e7409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363796383072:android:7a0abfbbaa514655a84a05",
+        "android_client_info": {
+          "package_name": "com.example.projecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPy81vpOq3JbKaWIMVixuB_EvXQyJ-vfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
